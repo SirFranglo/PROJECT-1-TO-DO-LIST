@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    box-sizing: 25px;
+    border: 3px solid;
+    border-radius: 35px;
+    height: 400px;
+    padding: 25px;
+    
+}
+
+.title {
+    display: flex;
+}
+
+/* This part is for the in*/
+.input-button {
+    color: green;
+    border: none;
+    text-align: left;
+    border: 35px;
+    margin: 20px;
+    
+}
+
+.button {
+    border-color: white;
+    background-color: green;
+    padding: 0px;
+    width: 55px;
+    height: 25px;
+    border-radius: 35px;
+}
+
+.line {
+    width: 550px;
+}
+
+div {
+    flex-direction:;
+}
